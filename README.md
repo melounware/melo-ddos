@@ -1,4 +1,4 @@
-# Simple DDOS tool written in python
+# Simple DDOS tool in python
 
 
 
